@@ -4,7 +4,7 @@
 
 ## Visualization of the Website
 
-![Form](./jegendcxTaskTracker.gif)
+![Form](./legendcxTaskTracker.gif)
 
 ## Description
 
