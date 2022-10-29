@@ -20,7 +20,7 @@ At the end of the project, I will be able to;
 
 ## Problem Statement
 
-- I am adding a new project to our portfolios. 
+- I am adding a new project to my portfolios. 
 
 ## Project Skeleton
 
@@ -32,19 +32,22 @@ Task Tracker Project(folder)
 │     └── index.html
 ├── src
 │    ├── components
-│    │       ├── Header.js
-│    │       │     └── Button.js
+│    │       ├── addTask
+│    │       │     └── AddTask.jsx
 │    │       │   
-│    │       ├── AddTask.js
+│    │       ├── header
+│    │       │     └── Header.jsx
 │    │       │   
-│    │       │   
-│    │       └── Tasks.js
-│    │             └── Task.js
-│    │            
-│    ├── App.js
+│    │       └── taskList
+│    │             └── TaskList.jsx
+│    │ 
+│    ├── page
+│    │      └── Home.jsx
 │    ├── App.css
-│    ├── index.js
-│    └── index.css
+│    ├── App.js
+│    ├── index.css
+│    └── index.js
+├── legendcxTaskTracker.gif
 ├── package.json
 └── yarn.lock
 ```
@@ -68,9 +71,6 @@ You can see the visual representation of the website above.
 
 - Step 6: Add project gif to your project and README.md file.
 
-## Resources
-
-- 🔥 You can use [`data.js`](./src/helper/data.js) for your own work.
 
 # <center> ⌛ Happy Coding ✍ </center>
 
